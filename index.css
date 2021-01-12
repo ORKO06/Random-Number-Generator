@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.container{
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 2px solid gold;
+    border-radius: 25px;
+    margin-top: 200px;
+    font-size: x-large;
+}
+.bottom{
+    margin: auto;
+    width: 80px;
+
+}
+#demo{
+    color: #e2d62e;
+}
+
+
+.button {
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+    margin-top: 50px;
+  }
+  
+  .button1 {
+    background-color: rgb(0, 0, 0); 
+    color: rgb(255, 255, 255); 
+    border: 2px solid #e2d62e;
+  }
+  
+  .button1:hover {
+    background-color: aqua;
+    color: rgb(189, 1, 1);
+  }
